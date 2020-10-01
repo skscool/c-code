@@ -1,1 +1,1 @@
-# c-code wish to do a c ccode
+# c-code wish to do a c code
